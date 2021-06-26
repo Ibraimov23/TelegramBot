@@ -1,0 +1,7 @@
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\TelegramBot.exe
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\TelegramBot.dll
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\TelegramBot.deps.json
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\TelegramBot.runtimeconfig.json
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\TelegramBot.pdb
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\Newtonsoft.Json.dll
+C:\Users\Nursultan\Desktop\TelegramBot\TelegramBot\bin\Release\net5.0\publish\Telegram.Bot.dll
